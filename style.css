@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    background-color: #0f777b;
+    justify-content: center;
+    width: 75%;
+    height: 90%;
+}
+.tags{
+    font-size: 40px;
+    font-weight: bolder;
+    
+}
+#T{
+    color: rgb(116, 22, 41);
+
+}
+#E{
+    color: darkblue;
+}
+#R{
+    color: darkgreen;
+}
+#I{
+    color:yellowgreen;
+}
+#S{
+    color: fuchsia;
+}
+h2{
+    align-items: flex-end;
+    font-size: 25px;
+    
+}
